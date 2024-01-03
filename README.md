@@ -1,4 +1,6 @@
-# Ansible Leapp Collection
+# Ansible Leapp Collaction
+
+This is a code spell test.
 
 [![CI](https://github.com/redhat-cop/infra.leapp/workflows/CI/badge.svg?event=push)](https://github.com/redhat-cop/infra.leapp/actions) [![Lint](https://github.com/redhat-cop/infra.leapp/workflows/Yaml%20and%20Ansible%20Lint/badge.svg?event=push)](https://github.com/redhat-cop/infra.leapp/actions) [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7438/badge)](https://bestpractices.coreinfrastructure.org/projects/7438)
 
